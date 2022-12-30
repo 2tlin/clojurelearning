@@ -36,3 +36,4 @@
 (toprint (nil? nil))
 (toprint (= 1 1))
 
+(toprint (true? 1))
